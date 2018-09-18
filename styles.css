@@ -1,0 +1,17 @@
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 75px;
+    margin-left: 40px;
+}
+
+body {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+body { 
+    background-color: rgb(228, 198, 228);
+}
+p {font-family: 'Arial'}
